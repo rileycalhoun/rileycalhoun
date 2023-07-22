@@ -1,16 +1,17 @@
-**Riley Calhoun**  
+# Riley Calhoun's Resume
+
 Hanford, California, USA  
 Email: rileycalhoun0228@gmail.com  
 GitHub: [https://github.com/rileycalhoun](https://github.com/rileycalhoun)
 
 ---
 
-**Professional Summary**:  
+## Professional Summary:  
 With 7 years of coding experience starting at the age of 11, I specialize in Java, JavaScript, and Python. My capabilities span from development to database management with MongoDB and Redis. Additionally, as a skilled system administrator, I adeptly configure Docker containers, NGINX, and Apache2 web servers.
 
 ---
 
-**Technical Skills**:
+## Technical Skills
 - **Programming Languages**: Java, JavaScript, Python, learning Go & Rust
 - **Database Systems**: MongoDB, Redis
 - **Version Control**: Git
@@ -19,7 +20,7 @@ With 7 years of coding experience starting at the age of 11, I specialize in Jav
 
 ---
 
-**Education**:  
+## Education  
 
 - **College of the Sequoias**, Hanford  
   Currently Enrolled in **Computer Science & Information Systems**  
@@ -29,7 +30,7 @@ With 7 years of coding experience starting at the age of 11, I specialize in Jav
 
 ---
 
-**Personal Projects**:  
+## Personal Projects  
 
 - **User System with Express.js**: 
   - Built a robust user system using express.js.
@@ -44,7 +45,7 @@ With 7 years of coding experience starting at the age of 11, I specialize in Jav
 
 ---
 
-**Soft Skills**:
+## Soft Skills
 - Effective Communicator
 - Problem Solver
 - Time Management Expert
@@ -52,5 +53,5 @@ With 7 years of coding experience starting at the age of 11, I specialize in Jav
 
 ---
 
-**References**:  
+## References  
 Available upon request.
