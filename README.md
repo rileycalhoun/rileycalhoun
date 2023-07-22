@@ -1,4 +1,4 @@
-# Riley Calhoun's Resume
+# Riley Calhoun
 
 Hanford, California, USA  
 Email: rileycalhoun0228@gmail.com  
