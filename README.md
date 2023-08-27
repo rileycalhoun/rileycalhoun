@@ -23,7 +23,8 @@ With 7 years of coding experience starting at the age of 11, I specialize in Jav
 ## Education  
 
 - **College of the Sequoias**, Hanford  
-  Currently Enrolled in **Computer Science & Information Systems**  
+  Currently Enrolled in **Computer Science & Information Systems**
+  Working towards CompTIA A+ certification
 
 - **Hanford West High School**, Hanford  
   Graduated in 2023
