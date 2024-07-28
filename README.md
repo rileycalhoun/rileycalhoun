@@ -1,8 +1,7 @@
 # Riley Calhoun
 
 Hanford, California, USA  
-Email: rileycalhoun0228@gmail.com  
-GitHub: [https://github.com/rileycalhoun](https://github.com/rileycalhoun)
+Email: rileycalhoun0228@gmail.com
 
 ---
 
