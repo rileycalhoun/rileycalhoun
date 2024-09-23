@@ -1,57 +1,12 @@
 # Riley Calhoun
+btw, my wife is beautiful (did i mention that i have a wife?)
 
-Hanford, California, USA  
-Email: rileycalhoun0228@gmail.com
+Based in Hanford, California. Attending College of the Sequoias in Visalia, majoring in Computer Science and Math.
+Math is cool, coding is fun. I'll make a lot of money some day.
 
----
-
-## Professional Summary:  
-With 7 years of coding experience starting at the age of 11, I specialize in Java, JavaScript, and Python. My capabilities span from development to database management with MongoDB and Redis. Additionally, as a skilled system administrator, I adeptly configure Docker containers, NGINX, and Apache2 web servers.
-
----
-
-## Technical Skills
-- **Programming Languages**: Java, JavaScript, Python, learning Go & Rust
-- **Database Systems**: MongoDB, Redis
-- **Version Control**: Git
-- **Server Administration**: NGINX, Apache2
-- **Containerization**: Docker
-
----
-
-## Education  
-
-- **College of the Sequoias**, Hanford  
-  Currently Enrolled in **Computer Science & Information Systems**
-  Working towards CompTIA A+ certification
-
-- **Hanford West High School**, Hanford  
-  Graduated in 2023
-
----
-
-## Personal Projects  
-
-- **User System with Express.js**: 
-  - Built a robust user system using express.js.
-  - Utilized MongoDB and Redis for efficient backend data management and operations.
-  
-- **Real-time Chat Application**: 
-  - Developed a live chat application employing express.js and socket.io.
-  - Leveraged MongoDB and Redis for backend tasks to ensure swift and reliable real-time communication.
-
-- **Express.js Wrapper**: 
-  - Crafted a streamlined wrapper for express.js, enabling rapid website setup with under 10 lines of code.
-
----
-
-## Soft Skills
-- Effective Communicator
-- Problem Solver
-- Time Management Expert
-- Collaborative Team Player
-
----
-
-## References  
-Available upon request.
+Languages:
+- Rust (best programming language)
+- Java (worst programming language)
+- Javascript (the actual worst programming language)
+- A little bit of Go, learning it
+- A teeny tiny bit of Python (please lord don't ask me to code in this)
