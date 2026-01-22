@@ -1,8 +1,8 @@
 # Riley Calhoun
-btw, my wife is beautiful.
+btw, i have a wife and kid.
 
-Based in Hanford, California. Attending College of the Sequoias in Visalia, majoring in Computer Science and Math.
-Coding stresses me out, but it's also really fun.
+based in fresno, ca.
+currently working at t-mobile in a non-technical position.
 
 Languages:
 - Rust
