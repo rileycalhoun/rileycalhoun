@@ -8,7 +8,7 @@ I've been writing server software since I was about 11. I started with Minecraft
 
 ## What I do
 - Product and backend engineering at Black Candle Technologies: designing services, shipping features, fixing production bugs, and keeping multiple codebases working as one product.
-- Day job: Expert, Account Care at T-Mobile (since May 2025) — customer-facing technical and account support.
+- Part-time: selling laptops for 2020 Sales Team, Inc. at Costco in Clovis — helping customers compare machines and match specs to their needs and budget. Previously Expert, Account Care at T-Mobile (May 2025 – May 2026).
 
 ## Stack
 **Strongest:** Rust · Java · TypeScript / JavaScript · Node.js
@@ -21,6 +21,6 @@ I've been writing server software since I was about 11. I started with Minecraft
 - **[Black Candle Technologies](https://github.com/black-candle-technologies)** — Our company org. Includes Lumen (Rust) and courier (Go).
 
 ## Currently
-Open to **part-time remote** engineering roles (backend / AI product). Part-time is a hard constraint, not a preference: I'm in school, raising a family, and running Black Candle.
+Open to **part-time remote** engineering roles (backend / AI product) — and looking to move into a more IT / computer science-focused role.
 
 **Contact:** rileycalhoun0228@gmail.com · [LinkedIn](https://www.linkedin.com/in/riley-calhoun)
